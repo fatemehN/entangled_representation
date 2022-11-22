@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Dependencies
 
-+ [U-Net: Semantic segmentation with PyTorch from](https://github.com/milesial/Pytorch-UNet)
++ [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 + 
 
 
