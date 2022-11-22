@@ -22,6 +22,7 @@ conda activate bmvae
 pip install -r requirements.txt
 ```
 
+This code is developed and tested on Ubuntu OS 18.04.5.
 
 ## Predict
 
