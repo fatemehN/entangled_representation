@@ -26,21 +26,28 @@ pip install -r requirements.txt
 ## Predict
 
 + First, download the network weights from the [Google Drive Link.](https://drive.google.com/drive/folders/1RE_5KmpD3_SPUyp54ddLiPXCxMGDes24?usp=sharing) and put them on the **ckpts** folder. 
-+ For posterior estimation,
-+ For Segmentation, 
-+ For Saliency detection, 
-
-
++ Run the following command for testing &beta;MVAE network:
+```
+python test_bmvae.py
+```
++ Run this command for testing &beta;MVUnet network:
+```
+python test_bmvUnet.py
+```
 
 
 
 ## Dependencies
 
 + [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
-+ 
++ Samples are from [DAVIS2016 dataset](https://davischallenge.org/index.html)
++ Training data are preprocessed sequences from [YOUTube-VOS dataset](https://youtube-vos.org/)
 
 
 ## Cite
+
+Please cite our work as:
+
 
 
 
