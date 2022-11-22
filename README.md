@@ -42,7 +42,7 @@ python test_bmvUnet.py
 
 + [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 + Samples are from [DAVIS2016 dataset](https://davischallenge.org/index.html)
-+ Training data are preprocessed sequences from [YOUTube-VOS dataset](https://youtube-vos.org/)
++ Training data are preprocessed sequences from [YouTube-VOS dataset](https://youtube-vos.org/)
 
 
 ## Cite
