@@ -10,7 +10,7 @@ This code is the official implementation of the following paper:
 ![Time Consistency2](./examples/vid_seq2.png)
 ![Time Consistency3](./examples/vid_seq3.png)
 
-The video sequences of DAVIS16 ...a. Image, b.Annotation, c.&beta;MVUnet
+These video sequences are from DAVIS16 dataset.(a.Image, b.Annotation, c.&beta;MVUnet)
 
 ## Install
 
