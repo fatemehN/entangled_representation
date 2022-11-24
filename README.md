@@ -49,7 +49,7 @@ python test_bmvUnet.py
 
 Please cite our work as:
 
-[arXiv:2211.12627 (cs)]{https://arxiv.org/abs/2211.12627}
+[arXiv:2211.12627 (cs)](https://arxiv.org/abs/2211.12627)
 
 
 ## Contact
