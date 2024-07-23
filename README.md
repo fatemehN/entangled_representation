@@ -1,5 +1,5 @@
 
-# Entangled Representation Learning in Video Frames
+# β-MuliVariational AutoEncoder for Entangled Representation Learning in Video Frames
 
 This code is the official implementation of the following paper:
 
